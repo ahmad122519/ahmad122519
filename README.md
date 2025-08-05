@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **ahmadali122519@gmail.com** For Collaboration/Project or A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-shoukat-413322254/)
 
-## 🔗 I am a Backend Developer. 😊😊
+## 🔗 I am a Frontend Developer. 😊😊
 
 # 💻 Tech Stack:
 
